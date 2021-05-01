@@ -1,0 +1,1 @@
+print("""khushi\nkya hal""")

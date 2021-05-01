@@ -1,0 +1,7 @@
+print(type(55.50))
+print(type(10))
+print(type("Jay"))
+print(type(6+4j))
+print(type([1,2,3,4]))
+print(type((1,2,3,4)))
+print(type({1:"One",2:"Two",3:"Three"}))
